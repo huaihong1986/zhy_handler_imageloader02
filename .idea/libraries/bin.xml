@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../zhy_pulltorefreash_chenyoca/base_library_pullToRefresh_chenyoca/bin/library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../zhy_pulltorefreash_chenyoca/base_library_pullToRefresh_chenyoca/bin/base_library_pulltorefresh_chenyoca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
